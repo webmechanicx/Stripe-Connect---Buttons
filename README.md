@@ -5,7 +5,7 @@ Live Demo:
 [Visit!](http://dozenhack.github.io/)
 <br><br>
 
-### :100:Stripe Button Packs
+### 100:Stripe Button Packs
 
 <br>
 ![Alt text](https://raw.githubusercontent.com/dozenhack/Stripe-Connect---Buttons/f667261e7a9c914dfcf2a7adfb40d8564f5b1e42/assets/img/blue-on-light/blue-on-light.png "Blue Button Standard")
